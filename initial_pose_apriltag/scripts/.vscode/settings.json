@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/esec-ai/turtlebot_ws/devel/lib/python3/dist-packages",
+        "/home/esec-ai/apriltag_ws/devel/lib/python3/dist-packages",
+        "/home/esec-ai/docking_ws/devel/lib/python3/dist-packages",
+        "/home/esec-ai/ros_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/esec-ai/turtlebot_ws/devel/lib/python3/dist-packages",
+        "/home/esec-ai/apriltag_ws/devel/lib/python3/dist-packages",
+        "/home/esec-ai/docking_ws/devel/lib/python3/dist-packages",
+        "/home/esec-ai/ros_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
