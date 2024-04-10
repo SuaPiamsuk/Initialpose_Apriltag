@@ -24,7 +24,7 @@ rosrun initial_pose_apriltag get_apriltag_pose.py
 rostopic pub /get_tf_map_to_apriltag std_msgs/Bool "data: true" 
 ```
 ```
-rostopic pub /save_apriltag_pose std_msgs/Bool "data: true" --one
+rostopic pub /save_apriltag_pose std_msgs/Bool "data: true" --once
 ```
 
 ### 5. run initial pose service
