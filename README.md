@@ -33,7 +33,7 @@ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map
 roslaunch initial_pose_apriltag apriltag_simulation.launch
 ```
 ### 4. get Apriltag pose relative to map frame
-
+if you didn't change Apritag location on simulation, you can skip step 4.1 to 4.4
 - 4.1 start node
 ```
 rosrun initial_pose_apriltag get_apriltag_pose.py
